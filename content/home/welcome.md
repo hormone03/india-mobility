@@ -1,15 +1,13 @@
 ---
-widget: hero
+widget: blank
 headless: true
 active: true 
 weight: 2
-title: Our project
+title: Our Project
 hero_media:
 widget_id: recent-posts
 design:
   columns: "1"
-  css_style: null
-  css_class: null
 ---
 <br>
 
