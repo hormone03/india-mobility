@@ -1,5 +1,5 @@
 ---
-title: Episode 2 - On The Polictics of Urban Infrastructure, Cars and Decongesting Bengaluru
+title: Govind Gopakumar talks on Decongesting Bengaluru at the Feminist City Podcast
 date: 2022-09-13
 ---
 

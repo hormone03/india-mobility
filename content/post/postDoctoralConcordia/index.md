@@ -1,11 +1,13 @@
 ---
-title: In recognition of the significant role that Postdoctoral Fellows play in our research enterprise, Concordia University administers two Horizon Postdoctoral Fellowship Competitions per year.
+title: Welcome to Concordia - Dr. Apoorva Rathod
 date: 2023-02-20
 image:
   focal_point: 'top'
 ---
+Dr. Apoorva Rathod joins Concordia University as Horizon Post Doctoral Fellow. Dr. Rathod completed her PhD at University of Gothenburg, Sweden and shall be working with Prof. Govind Gopakumar at Concordia University.
 
-We are currently recruiting in several research domains. Please review our <a href="https://www.concordia.ca/sgs/postdoctoral-fellows/funding/horizon/open-positions.html" target="_blank"> open positions</a> for complete details.
+To read more about Apoorva’s interests, <a href="https://india-mobility.netlify.app/author/apoorva-rathod/" target="_blank">click here</a>. </br>To read about Horizon Post Doctoral Fellowship, <a href="https://www.concordia.ca/sgs/postdoctoral-fellows/funding/horizon/open-positions.html" target="_blank">click here</a>.
+
 
 <!--more-->
 

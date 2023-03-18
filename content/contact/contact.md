@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '45.4948'
     longitude: '-73.5779'
-  directions: Montréal is the largest city in Canada's Québec province. It’s set on an island in the Saint Lawrence River and named after Mt. Royal, the triple-peaked hill at its heart. Its boroughs, many of which were once independent cities, include neighbourhoods ranging from cobblestoned, French colonial Vieux-Montréal – with the Gothic Revival Notre-Dame Basilica at its centre – to bohemian Plateau.
+  directions:
   #office_hours:
     #- 'Monday - Friday: 10:00 to 13:00'
   #appointment_url: 'https://calendly.com/joyouce03'

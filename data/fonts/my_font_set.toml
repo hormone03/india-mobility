@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "family=Open+Sans:wght@500&family=Roboto:wght@300;400;500;700&family=Ubuntu:ital,wght@1,300"
+google_fonts = "family=Roboto:wght@400;500;700"
 
 # Font families
-heading_font = "Roboto 700 Bold"
-body_font = "Roboto 300" #Open Sans
-nav_font = "Roboto" #Ubuntu
-mono_font = "Roboto"
+heading_font = "Roboto:wght@700"
+body_font = "Roboto:wght@400" #Open Sans
+nav_font = "Roboto:wght@500" #Ubuntu
+mono_font = "Roboto Mono"
