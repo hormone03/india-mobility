@@ -1,5 +1,5 @@
 ---
-title: Summary of our projects
+title: Coming soon
 
 # Listing view
 view: compact
