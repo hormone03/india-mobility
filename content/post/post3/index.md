@@ -1,8 +1,8 @@
 ---
-title: Cars are dominating the Indian streets – this needs to change in the post-Covid world
+title: “Cars are dominating the Indian streets” - Op-Ed by Govind Gopakumar
 date: 2020-12-01
 ---
-Addressing mobility injustice is crucial amid renewed calls for personal motorisation and stigmatisation of public transit as vectors of disease transmission.
+Prof. Govind Gopakumar writes how the Indian street has been dominated by cars and why it must change in the post CoVID era. The op-ed was published by Scroll.in, a digital platform covering contemporary issues in Indian society and the full article can be read <a href="https://scroll.in/article/977767/cars-are-dominating-the-indian-streets-and-this-needs-to-change-in-the-post-covid-world" target="_blank">here</a>.
 
 <!--more-->
 
@@ -14,4 +14,4 @@ But this shift in redefining streets is not predicated solely on growing numbers
 
 Automobility, according to John Urry and other scholars of the field, can be understood as a powerful system locked in through very many social and technological interlinkages to institutions and cultures.
 
-Witness the United States. Historian Christopher Wells has persuasively argued that automotive dependence in the US is embodied in the infrastructures and built environment since the middle of the twentieth century, to the extent that it has essentially transformed the host itself into a Car Country. <a href="https://www.concordia.ca/cunews/encs/2020/12/01/cars-made-streets-less-inclusive.html" target="_blank"> Details here ...</a> </p>
+Witness the United States. Historian Christopher Wells has persuasively argued that automotive dependence in the US is embodied in the infrastructures and built environment since the middle of the twentieth century, to the extent that it has essentially transformed the host itself into a Car Country.
