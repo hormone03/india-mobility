@@ -10,7 +10,7 @@ address:
   postcode: 'H3G 1M8'
   country: Canada
 
-summary: The review workshop is being conducted as part of the SSHRC Insight Grant Project titled Constituting Indian Urban Mobility. <a href="https://concordia-ca.zoom.us/j/8246449038" target="_blank">Zoom link</a>
+summary: The review workshop is being conducted as part of the SSHRC Insight Grant Project titled Constituting Indian Urban Mobility.
 
 ---
 <p align="justify" style="font-size: 19px">The central objective of this research project is to critically investigate urban mobility in Indian cities in the rapidly evolving context of motorization. Several efforts ranging from infrastructural efforts such as Bus Rapid Transit (BRT) and Mass Rapid Transit (MRT) Systems to governance and policy interventions such as urban experimentation (UE) and national urban transport policy (NUTP) have been (and are being) proposed. We seek to investigate these measures from an interdisciplinary perspective borrowing from urban geography, history of urban planning, technology policy, science and technology studies, urban design, and sustainability transitions, with an aim to assess the possibilities and potentials for equitable and just mobilities on Indian streets <a href="https://concordia-ca.zoom.us/j/8246449038" target="_blank">Zoom link</a>.</p> 

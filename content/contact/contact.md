@@ -50,7 +50,9 @@ content:
       captcha: false
 
 design:
-  columns: '1'
+  columns: '2'
+  is_fullscreen: true
+  fit: contain
 ---
 
 Interested in joining our laboratory and have questions about our research works, requirements or your application, fill the web form below:
