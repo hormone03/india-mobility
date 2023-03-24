@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Collaborators
+  - Investigators
 ---
 <p align="justify">Rutul Joshi is an architect-urban planner with a Ph.D. in Transportation Studies (UWE, Bristol, UK) with 20 years of academic and research experience. Rutul chairs the Foundation module of courses for all PG programs in the Faculty of Planning. He teaches the PG Foundation Studio and subjects like history, theory, and spatial/transport planning. Rutul also heads the Doctoral programs at CEPT University.
  
