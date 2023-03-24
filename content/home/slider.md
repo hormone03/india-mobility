@@ -52,6 +52,51 @@ content:
         brightness: 0.9
         media: Slide5.jpg
         fit: contain
+    - title: #👋 Welcome to the group
+      content: #Take a look at what we're working on!
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.9
+        media: govind_bike_riding.jpg
+        fit: contain
+    - title: #👋 Welcome to the group
+      content: #Take a look at what we're working on!
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.9
+        media: govind_blr_street.jpg
+        fit: contain
+    - title: #👋 Welcome to the group
+      content: #Take a look at what we're working on!
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.9
+        media: govind_sidewalk.jpg
+        fit: contain
+    - title: #👋 Welcome to the group
+      content: #Take a look at what we're working on!
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.9
+        media: govind_tender_sure.jpg
+        fit: contain
+    - title: #👋 Welcome to the group
+      content: #Take a look at what we're working on!
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.9
+        media: govind_tender_sure1.jpg
+        fit: contain
     - title: #Constituting Indian Urban Mobility
       content: 
       align: center
