@@ -44,7 +44,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: xayzywpb
+      id: myyankwp
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
