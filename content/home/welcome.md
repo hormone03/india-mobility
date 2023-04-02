@@ -17,3 +17,9 @@ design:
 <p align="justify" style="font-size: 17px"> The focus of this research is primarily on the evolution of urban mobility in the Indian urban context. Following recent urban theorization, despite the large historical and social differences between the Indian urban case and Southern contexts, we are confident that our collective research will be of relevance to a wider audience of scholars, community activists, and civic actors interested in more sustainable and equitable modes of urban movement.  </p> 
 <p align="justify" style="font-size: 17px"> This research is funded thanks to an Insight Grant provided by the publicly funded <a href="https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx" target="_blank">Social Science and Humanities Research Council</a> of Canada. Key researchers in this project are affiliated with <a href="https://www.concordia.ca/" target="_blank">Concordia University</a> and <a href="https://www.mcgill.ca/" target="_blank">McGill University</a> in Canada and <a href="https://cept.ac.in/" target="_blank">CEPT University</a> in India.  </p> 
 </small>
+
+<br>
+
+<br>
+
+{{% cta cta_link="./people/" cta_text="Meet the team →" %}}

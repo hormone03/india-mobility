@@ -19,6 +19,6 @@ main:
   - name: Contact
     url: contact
     weight: 50
-  - name: Projects
-    url: projects
-    weight: 45
+  #- name: Projects
+    #url: projects
+    #weight: 45

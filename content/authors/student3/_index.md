@@ -1,4 +1,5 @@
 ---
+weight: 2
 # Display name
 title: Yogi Joseph
 

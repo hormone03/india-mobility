@@ -1,4 +1,5 @@
 ---
+active: false
 title: Coming soon
 
 # Listing view
