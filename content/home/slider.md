@@ -3,8 +3,9 @@ widget: slider
 weight: 1
 active: true
 headless: true
-
 design:
+  prevArrow: null
+  nextArrow: null
   # Slide height is automatic unless you force a specific height (e.g. '400px')
   slide_height: ''
   is_fullscreen: true
