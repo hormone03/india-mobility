@@ -1,5 +1,9 @@
 ---
 title: Panel Discussion at 4th Space titled Installing Automobility - Author meets Reviewers
+authors:
+  - ''
+author_notes:
+  - ''
 date: 2020-04-07
 ---
 

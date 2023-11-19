@@ -1,5 +1,9 @@
 ---
 title: How cars made the world’s streets less inclusive
+authors:
+  - ''
+author_notes:
+  - ''
 date: 2020-12-01
 ---
 New book by Concordia professor focuses on increasing automobility in Indian cities
