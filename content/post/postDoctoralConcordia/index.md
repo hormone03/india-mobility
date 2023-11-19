@@ -1,5 +1,9 @@
 ---
 title: Welcome to Concordia - Dr. Apoorva Rathod
+authors:
+  - ''
+author_notes:
+  - ''
 date: 2023-02-20
 image:
   focal_point: 'top'
