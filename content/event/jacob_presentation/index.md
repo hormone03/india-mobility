@@ -1,6 +1,10 @@
 ---
-title: Presentations at American Association of Geographers upcoming conference
-date: '2023-03-01T14:00:00Z'
+title: Jacob’s Presentation in August 2023 
+authors:
+  - ''
+author_notes:
+  - ''
+date: '2023-08-01T14:00:00Z'
 event: 
 location: Denver
 address:
