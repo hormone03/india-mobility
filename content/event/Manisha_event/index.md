@@ -14,7 +14,7 @@ address:
   postcode: 'H3G 1M8'
   country: CANADA
 
-summary: Explore the research intersection forum involving Dr. Manisha Anantharaman.
+summary: Explore the research intersection forum involving Dr. Manisha Anantharaman
 
 ---
 <figure>
