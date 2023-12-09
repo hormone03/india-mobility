@@ -1,5 +1,5 @@
 ---
-title: Upcoming visit by Dr. Manisha Anantharaman
+title: Manisha's Visit in March 2023
 authors:
   - ''
 author_notes:
