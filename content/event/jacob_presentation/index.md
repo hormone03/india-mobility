@@ -1,5 +1,5 @@
 ---
-title: Jacob’s Presentation in August 2023 6666666666
+title: Jacob’s Presentation in August 2023
 authors:
   - 'student1'
 author_notes:
