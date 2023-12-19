@@ -1,7 +1,7 @@
 ---
 title: Yogi's Talk in October 2023 
 authors:
-  - ''
+  - 'student3'
 author_notes:
   - ''
 date: '2023-10-06T14:00:00Z'
