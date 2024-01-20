@@ -10,7 +10,7 @@ location: Room H 1269-03, 12th floor, Hall Building, Concordia University
 address:
   street: 1455 De Maisonneuve Blvd. W.
   city: Montreal
-  region: QC
+  region: QC.
   postcode: 'H3G 1M8'
   country: Canada
 
