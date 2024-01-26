@@ -14,7 +14,7 @@ design:
 
 content:
   slides:
-    - title: Review Workshop held in December
+    - title: #Review Workshop held in December
       content: #Take a look at what we're working on!
       align: center
       background:
