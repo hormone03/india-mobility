@@ -1,7 +1,7 @@
 ---
 title: 'A contingent publicness: Entanglements on buses'
 authors:
-  - student3
+  - student3, admin
 author_notes:
   - ''
 date: '2023-06-02T00:00:00Z'
