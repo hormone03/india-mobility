@@ -13,7 +13,7 @@ design:
   interval: 2000
 
 content:
-  slides:
+  images:
     - title: #Review Workshop held in December
       content: #Take a look at what we're working on!
       align: center
